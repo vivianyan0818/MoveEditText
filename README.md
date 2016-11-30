@@ -1,6 +1,6 @@
 # MoveEditText
 
-![](https://github.com/vivianyan0818/screenshot/1.gif)
+![](https://github.com/vivianyan0818/MoveEditText/raw/master/screenshot/1.gif)
 
 当页面有EditText时，会遇到软键盘将EditText遮住的情况。
 
@@ -36,7 +36,7 @@ getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_PAN);
 
 
 图1：
-![](https://github.com/vivianyan0818/screenshot/2.gif)
+![](https://github.com/vivianyan0818/MoveEditText/raw/master/screenshot/2.gif)
 
 
 #2.设置adjustResize需注意：
@@ -88,4 +88,4 @@ private Handler handler = new Handler();
 
 
 adjustResize的效果是
-![](https://github.com/vivianyan0818/screenshot/2.gif)
+![](https://github.com/vivianyan0818/MoveEditText/raw/master/screenshot/2.gif)
